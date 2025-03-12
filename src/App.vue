@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header></Header>
-    我是其他内容
+    <router-view></router-view>
     <Footer></Footer>
   </div>
 </template>
