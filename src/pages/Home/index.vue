@@ -1,6 +1,6 @@
 <template>
   <div>
-    我是home路由
+    <TypeNav/>
   </div>
 </template>
 
